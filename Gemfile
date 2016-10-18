@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
-ruby '2.1.0'
+ruby '2.3.0'
 
-gem 'rails', '4.1.1'
+# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+gem 'rails', '4.1.6'
 gem 'sqlite3'
 
 gem 'sass-rails', '~> 4.0.3'
